@@ -6,7 +6,7 @@
   },
   "dependencies": {
     "@generouted/react-router": "^1.19.6",
-    "@mozilla/readability": "^0.5.0",
+    "@mozilla/readability": "^0.6.0",
     "@tailwindcss/line-clamp": "^0.4.4",
     "react-router-dom": "^6.24.0"
   },
